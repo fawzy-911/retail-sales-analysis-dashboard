@@ -42,7 +42,6 @@ Figures above are taken from the workbook's existing summary/dashboard and refle
 
 - [`Retail-Sales-Analysis.xlsx`](Retail-Sales-Analysis.xlsx) — the Excel workbook and dashboard
 - [`assets/dashboard-preview.png`](assets/dashboard-preview.png) — image preview for this README
-- [`GITHUB_UPLOAD_GUIDE_AR.md`](GITHUB_UPLOAD_GUIDE_AR.md) — Arabic instructions for creating and uploading this repository
 
 ## Open the project
 
